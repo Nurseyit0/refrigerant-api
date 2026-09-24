@@ -132,4 +132,3 @@ def calculate_cycle(data: CycleRequest):
         "work_kJkg": w_comp / 1000,
         "q_cond_kJkg": q_cond / 1000,
     }
-}
